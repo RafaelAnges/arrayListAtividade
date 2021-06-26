@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
+
 /**
  *
  * @author rafae
@@ -20,6 +21,7 @@ public class Program {
         
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+        
         
         List<Employee> list = new ArrayList<>();
         
